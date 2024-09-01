@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="17.243" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Testing with Tags" name="Testing with Simple Alert" time="11.814">
+<system-out><![CDATA[
+Given User is on the page...................................................passed
+When User clicks the Simple Alert button....................................passed
+Then Alert opens............................................................passed
+And Read the text from it and print it......................................passed
+And Close the alert.........................................................passed
+And Read the result text....................................................passed
+And Close Browser...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
